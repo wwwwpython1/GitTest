@@ -8,5 +8,6 @@ public class HelloGit {
 
 		System.err.println("我是master");
 		System.err.println("我是hot_fix");
+		System.err.println("我是第二个master2");
 	}
 }
